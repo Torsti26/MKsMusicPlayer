@@ -12,7 +12,7 @@ A small, resizable music player for Assetto Corsa that lets you control your mus
 
 ## Installation
 
-1. Place the `CarPlayWindow` folder in `assettocorsa/apps/lua`.
+1. Place the `MKsMusicPlayer` folder in `assettocorsa/apps/lua`.
 2. Launch Assetto Corsa.
 3. Enable and open **MK's Music Player** from the Lua apps menu.
 
