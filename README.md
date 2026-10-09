@@ -1,5 +1,9 @@
 # MK's Music Player
 
+<p align="center">
+  <img src="screenshots/music-player.png" alt="MK's Music Player running in Assetto Corsa" width="800">
+</p>
+
 A small, resizable music player for Assetto Corsa that lets you control your music and see what's currently playing, using Custom Shaders Patch (CSP).
 
 ## Features
