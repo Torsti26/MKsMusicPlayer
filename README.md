@@ -22,7 +22,7 @@ A small, resizable music player for Assetto Corsa that lets you control your mus
 
 ## Compatibility
 
-This is a CSP Lua app for Assetto Corsa, not a standalone desktop music player.
+This is a CSP Lua app for Assetto Corsa, not a standalone desktop music player so you need CSP installed
 
 Available track information, album artwork, and media controls depend on the music source, CSP, and your operating system. If track information or cover art isn't available, the player will display a placeholder instead.
 
